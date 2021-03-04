@@ -18,7 +18,7 @@ somar <- function(a, b) {
 #' This function is good to sum.
 #'
 #' @param a A number.
-#' @param b It is another number.
+#' @param b It is another number FOI AQUI QUE EU ALTEREI SEU CODIGO.
 #'
 #' @examples
 #' subtrair(2, 3)
